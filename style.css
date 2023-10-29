@@ -1,0 +1,19 @@
+.imageDuHaut > h1 {
+    position: absolute;
+    top: 50%;
+    left: 24.5%;
+    transform: translate(-50%, -50%);
+    font-size: 4em;
+}
+
+.imageDuHaut > p {
+    position: absolute;
+    top: 60%;
+    left: 28%;
+    transform: translate(-50%, -50%);
+    font-size: 1.1em;
+}
+
+.bandeNoir {
+    height: 5cm;
+}
